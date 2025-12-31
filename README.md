@@ -185,4 +185,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Dive into the ultimate Pi ecosystem – star the repo and let's compute the future! 🚀
 
-For questions, contact [KOSASIH](https://github.com/KOSASIH) or open an issue.
+**Disclaimer**: *this is for off-chain simulation, all code files created with Python*
