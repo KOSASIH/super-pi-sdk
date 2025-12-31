@@ -1,0 +1,6 @@
+web3==6.15.0
+cryptography==42.0.0
+numpy==1.26.0
+scikit-learn==1.3.0  # For AI anomaly detection
+aiohttp==3.9.0       # For async HTTP in simulations
+pytest==7.4.0
